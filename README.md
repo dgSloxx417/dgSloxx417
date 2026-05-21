@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Gerald Donkor 👋
 
-<!--
-**dgSloxx417/dgSloxx417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer & Developer Advocate who loves AI engineering, building modern web 
+experiences, and making complex tech accessible to everyone. 🌍
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js
+- **Languages:** JavaScript, TypeScript, Python
+- **Tools:** Git, GitHub, Figma, Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Currently Fascinated By
+- How **LLMs & vector databases** are reshaping software development
+- **Multimodal AI** — machines that understand text, images & audio together
+- Making AI feel **less intimidating** for everyday developers
+
+## 💛 What I Love
+- Building clean, scalable **full-stack applications**
+- Creating content that turns **complex ideas into simple stories**
+- Tinkering with **AI tools** out of pure curiosity
+
+## 📬 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/gerald-donkor-46814a379)
+- 📧 geralddonkor1@gmail.com
+
+> 💡 "I build things and explain them clearly."
