@@ -4,9 +4,9 @@ Full-Stack Engineer & Developer Advocate who loves AI engineering, building mode
 experiences, and making complex tech accessible to everyone. 🌍
 
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** Node.js
-- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, ShadCN UI
+- **Backend:** Node.js, Supabase, Prisma, Drizzle ORM, Firebase
+- **Languages:** TypeScript, Python
 - **Tools:** Git, GitHub, Figma, Canva
 
 ## 🤖 Currently Fascinated By
