@@ -1,4 +1,4 @@
-# Hi, I'm Gerald Donkor 👋
+# Hi, I'm Gerald 👋
 
 Full-Stack Engineer & Developer Advocate who loves AI engineering, building modern web 
 experiences, and making complex tech accessible to everyone. 🌍
